@@ -1,0 +1,8 @@
+C:\Users\Andrej\AndroidStudioProjects\Quiz\Application\build\intermediates\classes\debug
+C:\Users\Andrej\AndroidStudioProjects\Quiz\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-9121a7e5febb62ba45e63952126a3cba3373757b.jar
+C:\Users\Andrej\AndroidStudioProjects\Quiz\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-36dde718629fb9157f737cd07b5bbc243e0cd303.jar
+C:\Users\Andrej\AndroidStudioProjects\Quiz\Application\build\intermediates\pre-dexed\debug\classes-117ff9b5de08c5cc0f1b701c6dde7424070525a7.jar
+C:\Users\Andrej\AndroidStudioProjects\Quiz\Application\build\intermediates\pre-dexed\debug\classes-823e50fac4cc0c801643ee08edc58076aa63d7aa.jar
+C:\Users\Andrej\AndroidStudioProjects\Quiz\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-5713409f88c7f4b3d72261c11ba0173579ca933e.jar
+C:\Users\Andrej\AndroidStudioProjects\Quiz\Application\build\intermediates\pre-dexed\debug\classes-6dafadaa96aa1aabff169f10c546e036f6bcdb59.jar
+C:\Users\Andrej\AndroidStudioProjects\Quiz\Application\build\intermediates\pre-dexed\debug\classes-3378e87d0bde147a64f23a72d0dcb165fe5db879.jar
